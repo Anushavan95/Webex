@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Webex/static/css/main.10618c2b.chunk.css",
+    "main.js": "/Webex/static/js/main.16e34bd6.chunk.js",
+    "main.js.map": "/Webex/static/js/main.16e34bd6.chunk.js.map",
+    "runtime-main.js": "/Webex/static/js/runtime-main.a9d9b48f.js",
+    "runtime-main.js.map": "/Webex/static/js/runtime-main.a9d9b48f.js.map",
+    "static/css/2.3ea46d35.chunk.css": "/Webex/static/css/2.3ea46d35.chunk.css",
+    "static/js/2.5786e48d.chunk.js": "/Webex/static/js/2.5786e48d.chunk.js",
+    "static/js/2.5786e48d.chunk.js.map": "/Webex/static/js/2.5786e48d.chunk.js.map",
+    "index.html": "/Webex/index.html",
+    "static/css/2.3ea46d35.chunk.css.map": "/Webex/static/css/2.3ea46d35.chunk.css.map",
+    "static/css/main.10618c2b.chunk.css.map": "/Webex/static/css/main.10618c2b.chunk.css.map",
+    "static/js/2.5786e48d.chunk.js.LICENSE.txt": "/Webex/static/js/2.5786e48d.chunk.js.LICENSE.txt",
+    "static/media/Present1.a924442e.webp": "/Webex/static/media/Present1.a924442e.webp",
+    "static/media/Present2.12bd6678.webp": "/Webex/static/media/Present2.12bd6678.webp",
+    "static/media/goodbye.bfe90c2e.png": "/Webex/static/media/goodbye.bfe90c2e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9d9b48f.js",
+    "static/css/2.3ea46d35.chunk.css",
+    "static/js/2.5786e48d.chunk.js",
+    "static/css/main.10618c2b.chunk.css",
+    "static/js/main.16e34bd6.chunk.js"
+  ]
+}
